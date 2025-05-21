@@ -54,6 +54,6 @@ streamlit run election_sentiment_app.py
   Time-based trends (if date column is provided).
 
 
-## Screenshots
+
 
 
