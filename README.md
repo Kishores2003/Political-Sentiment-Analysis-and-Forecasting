@@ -85,4 +85,10 @@ streamlit run election_sentiment_app.py
 
 
 
+## 👥 Authors/Acknowledgments
 
+
+
+- Iniya Vasanthan V M 
+- Praveen S
+ 
