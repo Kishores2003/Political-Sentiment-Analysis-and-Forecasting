@@ -53,6 +53,35 @@ streamlit run election_sentiment_app.py
   Party-wise sentiment breakdown.
   Time-based trends (if date column is provided).
 
+## 📸 Screenshots & Walkthrough
+
+### 1. **Dashboard Landing Page**
+![Dashboard Interface](Screenshot%202025-05-21%20211700.png)  
+*The clean interface showing analysis configuration options and file upload areas for multiple parties.*
+
+---
+
+### 2. **Data Upload Process**
+![File Upload](Screenshot%202025-05-21%20211751.png)  
+*Drag-and-drop CSV upload for 3 political parties. Supports files up to 200MB each.*
+
+---
+
+### 3. **Analysis Configuration**
+![Settings Panel](Screenshot%202025-05-21%20211641.png)  
+*Configure hybrid sentiment analysis (TextBlob + VADER) and set tweet processing limits (100-5000 tweets/party).*
+
+---
+
+### 4. **Real-Time Results**
+![Analysis Output](Screenshot%202025-05-21%20211834.png)  
+*Automatically detects winning party (Party 3 with 46.5% positive sentiment) and shows individual party breakdowns.*
+
+---
+
+### 5. **Comparative Visualization**
+![Multi-Party Comparison](Screenshot%202025-05-21%20211915.png)  
+*Interactive bar chart comparing sentiment distribution across all uploaded parties.*
 
 
 
