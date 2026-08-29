@@ -85,10 +85,9 @@ streamlit run election_sentiment_app.py
 
 
 
-## 👥 Authors/Acknowledgments
+## Project Team and Acknowledgments
 
-
-
-- Iniya Vasanthan V M 
-- Praveen S
- 
+- Ajay S - Project documentation, application testing, deployment and demonstration 
+- Kishore S - Repository maintenance and application development 
+- Iniya Vasanthan V M - Original project contribution 
+- Praveen S - Original project contribution 
